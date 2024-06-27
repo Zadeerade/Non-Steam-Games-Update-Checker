@@ -5,3 +5,7 @@ Example:
 Usage:
 
 ![Screenshot 2024-06-26 113214](https://github.com/Zadeerade/Non-Steam-Games-Update-Checker/assets/173899119/b20c4ae8-7f2a-450b-ab79-c39cd937eddf)
+
+Google Sheets Version:
+
+https://docs.google.com/spreadsheets/d/19Ha6UWVaQXJj_N7RSPJ2ggBHwjO2tfJqs72uBjiCXsg/edit?usp=sharing
